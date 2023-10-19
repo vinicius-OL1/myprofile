@@ -127,7 +127,7 @@
     }
   </style>
   <script>
-    function redirectToLucasMontano() {
+    function redirectToVinicius() {
       const links = [
         '/watch?v=ZbhcFLqt5wI',
         '/watch?v=jouOvuRkOjY',
@@ -173,7 +173,7 @@
   <script>
     document.addEventListener("DOMContentLoaded", function () {
       if (typeof marked === "function") {
-        fetch('https://raw.githubusercontent.com/lucasmontano/lucasmontano.com/main/README.md')
+        fetch('https://raw.githubusercontent.com/vinicius-OL1/myprofile/main/README.md')
           .then(response => response.text())
           .then(data => {
             const readmeHtml = marked(data);
@@ -192,13 +192,9 @@
     });
     document.addEventListener("DOMContentLoaded", function () {
       const clickmeImage = document.getElementById("clickme");
-      clickmeImage.addEventListener("click", redirectToLucasMontano);
+      clickmeImage.addEventListener("click", redirectToVinicius);
     });
   </script>
   <script src="https://cdn.jsdelivr.net/npm/prismjs@1.25.0/prism.js"></script>
-
-  <img id="clickme" src="clickme.png"
-    style="display:none;cursor:pointer;position:fixed;bottom:0px;right:0px;width:100px;height:100px;z-index:999;" />
-</body>
 
 </html>

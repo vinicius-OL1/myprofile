@@ -21,7 +21,8 @@ Estou disposto a realmente buscar ajudar e cooperar com uma equipe para um proje
 
 ## Redes
 
-[Instagram](https://www.instagram.com/vinycius_0l/) compartilho mais da minha vida pessoal nos Stories;
+[Instagram](https://www.instagram.com/vinycius_0l/) compartilho mais da minha vida pessoal nos Stories;   
+
 [Github](https://github.com/vinicius-OL1) alguns de meus projetos que ainda vou terminar :)
 
 
