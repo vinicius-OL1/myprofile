@@ -30,5 +30,5 @@ Estou disposto a realmente buscar ajudar e cooperar com uma equipe para um proje
 print("sim essa pagina foi desenvolvida com muito amor")
 ```
 
-Esse site foi criado graças ao conteúdo do grande Lucas Montado [repo](https://github.com/lucasmontano/lucasmontano.com/) 
+Esse site foi criado graças ao conteúdo do grande Lucas Montado [repo](https://github.com/lucasmontano) 
 
